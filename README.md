@@ -6,6 +6,7 @@ Central de materiais e atividades das disciplinas.
 
 ## 🖥️ SISTEMAS OPERACIONAIS
 - 📖 [Apostila](https://www.seduc.ce.gov.br/wp-content/uploads/sites/37/2012/06/informatica_sistemasoperacionais.pdf)
+   - [ATIVIDADE MÓDULO 5:](https://drive.google.com/file/d/1lzSR5Ikh64UG_hOQqXuClKQ_ATUK6cTn/view?usp=drive_link)
 - 📖 [Livro 1](https://drive.google.com/file/d/1z--pYg0IYX_CUmr_kjwxlTChunkpvEpL/view?usp=sharing)
 - 📖 [Livro 2](https://educapes.capes.gov.br/bitstream/capes/204087/2/Livro_Computacao_Sistemas%20Operacionais.PDF)
 

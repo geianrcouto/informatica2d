@@ -12,4 +12,5 @@ Central de materiais e atividades das disciplinas.
 
 ## 🧩 PROGRAMAÇÃO WEB - JS & PHP
 - 📖 [Apostila](https://drive.google.com/file/d/1bdPfpvDwvRNNjvxXKNsKwBD991b4gkfS/view?usp=sharing)
-- 📖 [Apostila com códigos atualiados](https://www.kufunda.net/publicdocs/Javascript%20B%C3%A1sico%20ao%20Avan%C3%A7ado%20(Kelvin%20Baumhardt%20Biffi).pdf).
+- 📖 [Apostila JS com códigos atualiados](https://www.kufunda.net/publicdocs/Javascript%20B%C3%A1sico%20ao%20Avan%C3%A7ado%20(Kelvin%20Baumhardt%20Biffi).pdf).
+- 📖 [Apostila PHP com códigos atualiados](https://www.kufunda.net/publicdocs/Do%20PHP%20ao%20Laminas%20Domine%20as%20boas%20praticas%20(Flávio%20Lisboa).pdf)
